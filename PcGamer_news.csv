@@ -1,0 +1,403 @@
+,0
+0,"Audio player loading…
+
+Emulation is impressive work, often the only route to preserving games, but in recent years some skilled programmers have started tackling full-on decompilations of classic games so that they can be studied and played on newer hardware. Now a team has taken on and managed the shocking task of porting Jak and Daxter, Naughty Dog's PS2-era action game, to a form that works on the PC.
+
+Recent comparable projects have taken on Super Mario 64 (opens in new tab) and The Legend of Zelda: Ocarina of Time (opens in new tab). Unlike those projects, however, Jak and Daxter wasn't written in widely-understood programming language C. Its code was written in a dialect of Lisp, already a language with fewer programmers, called GOAL that was developed in-house by Naughty Dog. So you're talking about an all-but-lost programming language that's based on another rather rare language.
+
+There can't be many programmers out there with the skills to work on this kind of a port. Nonetheless the people behind the project managed to decompile the GOAL game code into a human-readable form, develop a compiler to make GOAL run natively on x86-64 systems, make a tool to extract game assets, and then make a tool to repack the game assets into a format that their port can use.
+
+This is the kind of project that it takes a dedicated tech-head to accomplish. It's the kind of moonshot I would advise anyone against starting. For that reason I would like to mimic the sentiment of this Tweet (opens in new tab): ""Damn, these decomps are getting insane!""
+
+Daaaamn, these decomps are getting insane!JAK AND DAXTER PC PORT!!! Nope, not even kidding. Litterally Jak 1, running natively on PC. And it's got some new options in the menu too!Jak II/3 is next.https://t.co/c2lkAot3fa pic.twitter.com/1WJuSp9yK8June 16, 2022 See more
+
+You can find the proper code and documentation for the work on the Jak PC port over on Github. The port isn't finished yet, but the project FAQ estimates it's about 80% done. ""Most of the renderers and sound are finished, but there are still a few bugs. The project is still in development,"" it says.
+
+The Jak project is playable now, though: You'll need your own ISO of Jak and Daxter, and the latest release (opens in new tab) from the Github to extract it."
+1,"Audio player loading…
+
+Blizzard has opened sign ups for Overwatch 2's next beta (opens in new tab). Players have until June 28, or when Blizzard's server capacity is reached, to sign up and the beta will go live on June 28 as well. Additionally, Blizzard plans to provide access to this beta to anyone who has signed up for it by July 14 at the latest. If you're really jonesin' to try the hero shooter's next iteration for yourself and don't want to shell out for a preorder of the ""Watchpoint Pack,"" there's really no downside to opting in.
+
+Overwatch 2 hasn't exactly set our world on fire, what with it feeling more like a sequential update (opens in new tab) to the shooter than any kind of full-blooded sequel. We aren't sold on the new 5v5 meta yet either. While it speeds up the game, we've found that it dilutes Overwatch's unique character (opens in new tab), putting more of an emphasis on twitch aim skills and less on gamesense, and leaving the once industry-leading game feeling almost like any other competitive, esports-oriented shooter.
+
+There's still some time to shake things up and address these concerns before Overwatch 2's October 4 launch, however, and worse games have pulled themselves out of more intractable ruts. Overwatch 2's anticipated PvE will start rolling out in pieces next year as part of the game's new seasonal model, and that could inject some new energy and excitement into the game."
+2,"(opens in new tab) iBuyPower Slate Mono 230A | AMD Radeon RX 6600 XT | AMD Ryzen 5 5600X | 16GB RAM | 480GB + 1TB HDD | $1,349.99 $1,049.99 at Microsoft (save $300) (opens in new tab)
+
+This is a solid combo of an affordable but powerful AMD CPU and GPU to make for an impressive gaming machine at a good price. You'll be able to play at 1440p with the settings maxed out in plenty of games, or 1080p if not. The classic storage combo of SSD and HDD isn't ideal, but it's not bad for the cash. This is a solid deal.
+
+Nvidia may get most of the love when it comes to graphics cards, but AMD's RDNA 2 architecture gets plenty right too. The Radeon RX 6600 XT (opens in new tab) you'll find inside this iBuyPower machine is capable of gaming at the top settings at 1440p. There's a decent AMD Ryzen 5 5600X (opens in new tab) CPU in there too, for an overall up-to-date machine that will handle today's games well. Not bad for just $1,050 (opens in new tab).
+
+If you're looking for comparisons, the RX 6600 XT sits somewhere between the GeForce RTX 3060 (opens in new tab) and the 3060 Ti (opens in new tab), making it an up-to-date graphics card that can handle pretty much anything you throw at it.
+
+Well, almost anything. AMD's current ray tracing chops leave a lot to be desired, and the performance does tank phenomenally, especially at this end of AMD's line-up. Thankfully modern games look pretty great without physically perfect lighting.
+
+That CPU is really impressive too, sitting at the top of our best CPU for gaming (opens in new tab) list for the longest time, right up until Intel released its Alder Lake chips in fact. Intel's finest shouldn't distract you from the fact that this is a great chip still, that will handle modern games and more serious applications with ease.
+
+You get 16GB of DDR4-3000 for your money as well, along with a 480GB SSD and a 1TB spinning hard drive for your bigger games. A decent specification that focuses on what matters most and doesn't compromise unnecessarily to hit an unrealistic price point. It even comes with a keyboard and mouse."
+3,"Audio player loading…
+
+This year in tech has Elon Musk's presence looming large over it, thanks mainly to his proposed acquisition of Twitter in a deal that could be worth about $44 billion (opens in new tab). That all seems to be going a bit awry, with critics divided over whether Musk is trying to drive down what seems like an over-inflated price, or back away from the deal entirely.
+
+One of the reasons the Twitter deal has been such news is the nature of Musk himself: Probably the most high-profile billionaire in the world outside of Bill Gates, and a man with fingers in many important pies. The two most notable are Tesla and SpaceX, and Musk's critics wonder just how many major businesses this guy can possibly run at once: the fact he's simultaneously clowning himself on Twitter does not help, of course.
+
+This was the subject of an open letter by SpaceX employees, which was circulated on social media and first reported on by the Verge (opens in new tab). The letter called Musk's public behaviour and specifically his tweeting ""a frequent source of distraction and embarrassment [...] every Tweet that Elon sends is a de facto public statement by the company.""
+
+It cites the SpaceX workplace policy of 'No assholes' and asks that management ""publicly address and condemn Elon’s harmful Twitter behavior.""
+
+The letter became public on Wednesday 14 June. The New York Times has now reported that multiple employees involved in organising the letter were fired (opens in new tab) by Thursday afternoon. It quotes an email from Gwynne Shotwell, SpaceX's president and chief operating officer, which has been sent to SpaceX employees:
+
+""You may have received an unsolicited request from a small group of SpaceX employees for your signature on an 'open letter' yesterday and your participation in a related survey. Based on diverse employee feedback, this has upset many. That is, the letter, solicitations and general process made employees feel uncomfortable, intimidated and bullied, and/or angry because the letter pressured them to sign onto something that did not reflect their views.""
+
+Shotwell goes on to list various projects that SpaceX is currently working on and some of the company's immediate priorities. ""We have too much critical work to accomplish and no need for this kind of overreaching activism,"" she writes. The email goes on to say that SpaceX has proper channels for any workplace concerns, and that blanket emailing of colleagues on matters like this is unacceptable.
+
+""We performed an investigation and have terminated a number of employees involved. I am sorry for this distraction. Please stay focused on the SpaceX mission, and use your time at work to do your best work. This is how we will get to Mars.""
+
+It is not clear how many SpaceX employees were fired as a result of the investigation, though Reuters reports it's at least five staff (opens in new tab).
+
+(Image credit: Win McNamee/Getty Images)
+
+There's a lot of context to this letter. It came after months of Musk behaving childishly on Twitter, which at times has verged on farce: Such as him recently getting into a fight with videogame satire website Hard Drive, which clowned him on the social media site (opens in new tab) before publishing an article with the impeccable headline 'Elon Musk offers to buy rake he stepped on (opens in new tab)'.
+
+Over this period, Musk has also faced more serious accusations. In May, a Business Insider report (opens in new tab) based on a 2018 settlement alleged that Musk had propositioned a flight attendant for a sexual massage during a flight to London in 2016. The attendant claimed he had exposed himself, and offered to buy her a horse.
+
+Musk describes the story as a ""politically motivated hit piece"" and says the accusations are ""utterly untrue."" He unfortunately also went on to joke about them on his Twitter feed, saying to another user ""if you touch my wiener, you can have a horse. (opens in new tab)""
+
+As well as Musk's public-facing issues, there's also been some disquiet about his approach to remote working. He told SpaceX employees in early June that they have to be in the office 40 hours a week or they'll be fired, which may also have been a factor in the letter.
+
+Musk and SpaceX are yet to comment on the news: Most recently, he's been tweeting about Top Gun: Maverick and the declining US birth rate.
+
+Few would dispute that companies have the right to fire employees who step out of line. Whether an open letter qualifies for a sanction this extreme is a stickier subject. Whichever side of the fence you fall on, however, surely we can all agree: Firing employees who complain about you is one hell of a look for a self-declared ""free speech absolutist (opens in new tab)."""
+4,"Audio player loading…
+
+V Rising is one of the year's surprise hits, swooping out of the darkness and sucking in 500,000 players (opens in new tab) within a few days of release. Now Swedish developer Stunlock studios has announced that the game has, after one month on the digital shelves, sold over 2 million copies on Steam.
+
+That level of success brings with it expectation, particularly because there's a large PvP element to V Rising (you can of course just co-op on private servers if you want to opt out). Stunlock Studios has had a hell of a lot of feedback to sift through, and has been gamely fixing the more serious bugs (the game is still in early access) while also doing things like making stairs easier to find (opens in new tab).
+
+The latest patch adds a major building improvement, allowing players to dismantle floors and borders that are next to a wall or pillar in their castle without first dismantling the wall itself. It also adds localization for the Hungarian, Italian, Japanese, Korean, Polish, Russian, and Turkish languages, and has updated existing localizations thanks to community feedback.
+
+This is the year of the Vampire! 2 million strong! 🦇 pic.twitter.com/pujrmEpEG0June 17, 2022 See more
+
+A whole host of server-related bugs have been quashed, as well as a rather creepy sounding glitch ""where the screen could slowly turn dark!"" That had to have been pretty scary if you're playing along at 1am.
+
+That tension of 'balancing' a PvEvP game, however, is what comes through in the latest patch. If you look at the announcement on Steam or the V Rising subreddit (opens in new tab), you'll find a host of vampires arguing passionately about what changing the damage numbers is going to do to something called Scholar Blood, or why a 30% nerf to horseback melee damage is targeting the wrong stat for 'horselords,' as the community calls them.
+
+Essentially Stunlock has run into wild success and an unexpectedly huge playerbase, and now it's trying to balance-out the PvP side of the game without having too much impact on the PvE side. Part of the problem is that many of V Rising's abilities are designed to feel overpowered and awesome, which is great when you're bashing a boss and not-so-great when you're getting one-shot by an invader.
+
+The full notes are here (opens in new tab) and the major buffs / nerfs follow:
+
+Vermin Salve: No longer interrupted by damage during the cast time (will still break during the buff duration if the player takes damage).
+
+No longer interrupted by damage during the cast time (will still break during the buff duration if the player takes damage). Scholar Blood: Spell Power bonus reduced to 10-20% from 12-25%. Free Cast chance reduced to 15% from 20%.
+
+Spell Power bonus reduced to 10-20% from 12-25%. Free Cast chance reduced to 15% from 20%. Mounted Combat: Melee damage done when mounted is reduced by 30%.
+
+Melee damage done when mounted is reduced by 30%. Veil of Blood: Healing increased to 6% from 5%.
+
+Healing increased to 6% from 5%. Corpse Explosion: Damage increased to 140% from 125%.. Fading snare duration increased to 1.5s from 1s. Cooldown reduced to 10 seconds from 12 seconds.
+
+Damage increased to 140% from 125%.. Fading snare duration increased to 1.5s from 1s. Cooldown reduced to 10 seconds from 12 seconds. Unstable Mosquito: Damage increased to 70% from 60%.
+
+Damage increased to 70% from 60%. Veil of Bones: Initial projectile damage increased to 75% from 25%. Max bounces reduced to 3 from 4. Each bounce now reduces the damage of the next bounce by 25%.
+
+Expect to hear about V Rising for a while yet: though some think it's basically Valheim with vampires (opens in new tab), the experience is very different to Iron Gate's viking-em-up. The game supports dedicated servers to play with friends (opens in new tab) and, shortly after release, added a bunch of offline modes for those who want the solo Drac experience.
+
+Stunlock recently talked about its future plans for the game (opens in new tab), saying: ""Opening into Early Access is the first step we’re taking on the misty road to the game’s full release. Many journeys have a set path, a road with a clear destination. While we certainly have our goal in mind for V Rising, our path is not all set."""
+5,"Audio player loading…
+
+Towards the end of the Dreamcast's lifespan, when those in charge at Sega knew things were unlikely to go well, one of the most unusual firstparty games in history was commissioned: Segagaga. This was a game where you controlled Sega and, playing through its classic titles and managing the Dreamcast's fortunes, could change the world and 'defeat' a poorly-disguised Sony Corporation and its PlayStation.
+
+There's something undeniably melancholy about Segagaga. The collapse of the company's hardware business was existential for Sega, as well as humiliating, and this love-letter to its own history and fans felt like the ultimate 'what if' scenario, a parting gift to remember what might have been.
+
+Sega has obviously reinvented itself as a major publisher and is now in rude health. The same can't be said for another of the old giants, Atari, which has gone through various hands over the last few decades, few of which have done anything interesting with the once-great company.
+
+The current lot do, at least, seem to have some ambition: Even if it's all a bit too blockchain-y (opens in new tab) and pie-in-the-sky at times (nevermind the nonsense over SouljaBoy claiming he owned the company (opens in new tab)), it has managed to develop several new versions of classic titles as well as release a new piece of Atari hardware. And now, it's doing a Segagaga.
+
+Atari Mania (opens in new tab) is essentially a huge collection of minigames, based on classic titles from the company's history, framed by an RPG-lite structure where you play as the caretaker of the Atari vault. The vault is a storehouse for old Atari games until one night ""a dead pixel appears and soon enough, all heck breaks loose!!""
+
+It promises over 150 minigames showing the range of Atari's back catalogue, and that it'll be mixing and matching them up. ""You’ll fight back Centipedes with a Pong paddle while the iconic Adventure dragon hunts you down!""
+
+(Image credit: Atari)
+
+The caretaker side of the game sees you solving puzzles as well as playing the minigames, while the game is as you might expect stuffed with easter eggs (Atari's Warren Robinett is generally considered the first developer to insert one of these in a game with Adventure), trophies, collectibles including vintage art, posters and manuals. In addition you'll unlock remastered versions of the games by playing.
+
+I don't really know how to interpret this bit of the PR fluff though, about characters like you've never seen them before: ""Go face to antennae with some of the greatest games and characters in videogame history. Trust us: you’ll never think of Bentley Bear the same way again!"" Oookay.
+
+(Image credit: Atari)
+
+Atari's story is a tragedy. It's not that the company went down or stopped being a key player, so much as it became little more than a t-shirt seller for a long time, seemingly unable to do anything interesting with its properties, whether that means reinvention or simply releasing decent versions of them.
+
+I'm interested in Atari and under the current ownership, the games have been better than they have in a long time. Pong Quest, for example, made Pong into an 'RPG' and, while I wouldn't call it a classic, I respected it having a good crack at reinventing one of the simplest (and most iconic) games on the planet. I'm not saying Atari Mania is gonna be great. But by god it's good to live in a world where Atari might be making something half-decent."
+6,"Audio player loading…
+
+New Windows APU drivers for the Steam deck just dropped, and they aim to rectify issues that some users were running into with Halo Infinite and a handful of other unspecified games. Halo is actually quite an important game for the Steam Deck to run well on Windows, as it's not supported natively on Valve's own SteamOS due to anti-cheat.
+
+One of the main draws of booting your Steam Deck into Windows, rather than its own Steam OS, is to play games that otherwise aren't supported on the system. Most of Microsoft's major titles, including Halo and Gears, aren't supported on the Steam Deck due to anti-cheat limitations (opens in new tab), and the same goes for Destiny 2.
+
+There's a chance these games may never be updated to run on the Steam Deck's Linux-powered OS. That means you will need to install Windows on your device or dual-boot, though that's not yet supported (it's coming with SteamOS 3.0's full release).
+
+So if you fancy making the switch to Windows, then make sure you have the most up-to-date drivers. There are no release notes for the new and improved Windows APU drivers, but Valve's Lawrence Yang has mentioned these are intended to solve some issues with Halo Infinite and ""other titles that regressed recently"".
+
+You can download the new Steam Deck Windows drivers over on the official Steam driver page (opens in new tab).
+
+Hello to all Steam Deck + Windows (WinDeck?) enthusiasts! We've just updated the APU driver for Windows on Steam Deck to address issues with Halo Infinite and other titles that regressed recently. New driver can be found here: https://t.co/aRWUulw1kp pic.twitter.com/BLXwBmLnjOJune 17, 2022 See more
+
+Valve has also released new audio drivers, which may help smooth out any sound issues present on the OS. These can be tricky drivers to get right—audio drivers for Windows were some of the last to arrive on the handheld console—so best update these for the optimal handheld gaming experience."
+7,"Audio player loading…
+
+In 2019, Epic made the online services developed for Fortnite freely available to any game developer who wanted to use them. The software development kit included systems for friends lists, matchmaking, lobbies, leaderboards, stat-tracking, and cross-platform multiplayer. Recently, it brought crossplay between PC and PlayStation to Fall Guys in all its playlists. And now, Epic Online Services lets developers enable crossplay between Epic and Steam.
+
+A video accompanies the news, showing two friends trying to connect so they can play a fictional game called Neon Party Squad together. Tragically, they're separated because one of them is playing through Epic Games and the other is on ""PC Store"".
+
+Epic's not so shy about naming its competitor in the accompanying blog post (opens in new tab). ""Epic Online Services crossplay now works seamlessly on Steam and Epic Games Store,"" it says, ""enabling Steam players to search from over half a billion friends, connect and play. Development to natively support more PC stores is underway, as well as macOS and Linux support for desktop, with support for crossplay on console and mobile platforms coming later.""
+
+Developers who use the Epic Online Services toolset can choose which features they want to add to their game, including crossplay. Games that use it will have an overlay merging friends lists from across storefronts, through which players can search for friends and join games. ""With just a few clicks,"" Epic says, ""Steam players can jump into a game while an Epic Games account is created under the hood for their Steam account.""
+
+Epic has been bullish on the value of supporting crossplay for a while now, with Tim Sweeney saying ""I think it's in everyone's interest to support interoperability,"" back in 2018. It certainly worked out for Fortnite, and when Rocket League came to the Epic Games Store it had not only crossplay, but cross-platform progression as well, letting players access their items no matter which version they launched."
+8,"Audio player loading…
+
+Midnight Suns is a tactics-RPG being developed by XCOM studio Firaxis (who have called it ""the complete opposite"" of XCOM 2, I should note), which stars various Marvel superheroes alongside a player-made character called the Hunter. It was inspired by on-again off-again Marvel comic Midnight Sons, which began as a crossover of occult-themed superheroes. Some of the old lineup feature in the videogame, like Doctor Strange, Blade, and Ghost Rider, though the Firaxis version adds new blood and characters likely to be recognized by fans of the movies.
+
+Marvel has announced the comic book will return this year (opens in new tab), renamed Midnight Suns like the game and with a lineup that includes a few characters added to the digital version's roster: Wolverine, Magik from The New Mutants, and Nico Minoru from Runaways. It'll also share Blade and an incarnation of Ghost Rider (the old Midnight Sons books had like three different Ghost Riders over the years, the current one is an Apache woman from the 19th century called Kushala), and add Zoe Laveau, a student of Doctor Strange from the series Strange Academy.
+
+The Firaxis game pits the Midnight Suns against Lilith, Mother of Demons, who is out to summon an Elder God and bring on an apocalypse. Pretty classic stuff for the team. The comic's press release is more vague on details, saying, ""A dark prophesy and apocalyptic new villains with horrifying powers the likes of which Earth has never faced before ordains a team of Midnight Suns to rise and tear @#$% up!""
+
+The five-part miniseries is being written by Ethan Sacks, with art by Luigi Zagaria. Issue one comes out on September 14. The videogame is due on October 7 after being delayed from March, and will be coming to Steam (opens in new tab) and the Epic Games Store (opens in new tab)."
+9,"Audio player loading…
+
+Redmond-based indie studio Zachtronics was founded by Zach Barth, designer of sandbox builder Infiniminer, AKA the game Notch ripped off to make Minecraft. After that, Zachtronics made a name for itself with 2011's SpaceChem, which dresses like a game about synthesizing chemicals for space colonies but sneakily teaches you programming and circuit-building. It, and other Zachtronics puzzle games that are either explicitly about programming (like TIS-100, Shenzhen I/O, and Exapunks), or sneakily about programming (like alchemical device-builder Opus Magnum), have been dubbed 'Zach-likes' by fans. The studio has made games in other genres though, like AI-themed visual novel Eliza, and alternate-history strategy game Ironclad Tactics.
+
+Last Call BBS seems like a culmination and combination of everything Zachtronics has done over the last decade-plus of indie game development. It's a collection of eight puzzle minigames (""although some of them are quite big, at least the size of TIS-100 (opens in new tab)""), all accessed through a fictional retro computer called the Sawayama Z5 Powerlance. A BBS administrator called The Barkeep has filled this chunky red PC with games for us, and helpfully they're ""all fully cracked and ready to enjoy!""
+
+Those eight games cover the gamut of the studio's styles, from the expected Zach-likes to games with more in common with its other output like the competitive Solitaire of Nerts! Online or the block-and-conveyor construction work of Infinifactory. There's also one about assembling Gundam models? Here's what Zachtronics has to say about all eight:
+
+20th Century Food Court: Design factories to produce food just like they did over 700 years ago in the 20th century. Keep your costs low and your machines running fast!
+
+Design factories to produce food just like they did over 700 years ago in the 20th century. Keep your costs low and your machines running fast! STEED FORCE Hobby Studio: Assemble robot models based on the anime smash hit Steed Force right on your computer. No sandpaper required!
+
+Assemble robot models based on the anime smash hit Steed Force right on your computer. No sandpaper required! X'BPGH: The Forbidden Path: Enter a cursed world and create bizarre flesh sculptures in exchange for eternal life. The master is pleased… but can you trust him?
+
+Enter a cursed world and create bizarre flesh sculptures in exchange for eternal life. The master is pleased… but can you trust him? Sawayama Solitaire: It wouldn't be a Zachtronics release without a brand-new solitaire game. This time it’s a fresh take on Klondike, the ""classic"" solitaire variant.
+
+It wouldn't be a Zachtronics release without a brand-new solitaire game. This time it’s a fresh take on Klondike, the ""classic"" solitaire variant. Dungeons & Diagrams: Try your hand at these beguiling tile-based logic puzzles. Can you map out the dungeons and steal all the treasure?
+
+Try your hand at these beguiling tile-based logic puzzles. Can you map out the dungeons and steal all the treasure? ChipWizard™ Professional: Build integrated circuits using wires, transistors, and capacitors. Wait a second, is this a game or a CAD program?
+
+Build integrated circuits using wires, transistors, and capacitors. Wait a second, is this a game or a CAD program? HACK*MATCH: The tile-matching minigame from EXAPUNKS, completely remastered with a single player campaign and local head-to-head multiplayer (with Steam Remote Play support).
+
+The tile-matching minigame from EXAPUNKS, completely remastered with a single player campaign and local head-to-head multiplayer (with Steam Remote Play support). Kabufuda Solitaire: Create matching sets of Japanese kabufuda cards in this retro-demake of the challenging original solitaire game that debuted in Eliza.
+
+That's a lot of game. What's more, there's some kind of overarching mystery to unravel about the Sawayama Corporation responsible for this strange PC, and the Last Call BBS run by the enigmatic Barkeep.
+
+Sadly, Last Call BBS will be a last call for Zachtronics. As Zach Barth told Press X to Learn (opens in new tab) earlier this year (thanks to RPS (opens in new tab) for the tip), he's working as a high school computer science teacher these days. Given how many people have picked up elements of programming from the games he's worked on that seems pretty apt, but obviously full-time teaching doesn't leave a lot of hours free for game development.
+
+Last Call BBS will be available on Steam (opens in new tab) and PC Game Pass from July 5. As with previous Zachtronics games it'll launch in an Early Access version, but a fairly complete one. Seven of the games will be included, and the plan is for it to leave Early Access after ""One or two months."""
+10,"Audio player loading…
+
+Elon Musk, Tesla, and SpaceX are being sued for an astounding $258 billion—not a typo, that's billion—for running a pyramid scheme through the Dogecoin cryptocurrency. According to a Reuters (opens in new tab) report, the suit was filed by Dogecoin investor Keith Johnson, who accused Musk of using his wealth and position as CEO of the two companies to promote Dogecoin to drive up its price, before ultimately letting it fall.
+
+""Defendants were aware since 2019 that Dogecoin had no value yet promoted Dogecoin to profit from its trading,"" the complaint says. ""Musk used his pedestal as World's Richest man to operate and manipulate the Dogecoin Pyramid Scheme for profit, exposure and amusement.""
+
+One word: DogeDecember 20, 2020 See more
+
+Dogecoin was introduced in 2013 mainly as a joke, but there is no such thing as satire under capitalism, and in very short order it became the first meme coin, and a legitimate (such as they are) cryptocurrency. Its value was flatlined near zero for years until Musk tweeted about it (opens in new tab) in late 2020, which caused a sharp jump in price. Subsequent tweets in 2021 pushed it even higher; it peaked in May 2021 at $0.74 but has since come crashing down, shedding more than 90% of its price (opens in new tab), and currently sits at roughly $0.06.
+
+Ironically, the suit claims that the Dogecoin dump began when Musk hosted Saturday Night Live, which also happened in May 2021: During a Weekend Update segment, Musk appeared as a cryptocurrency expert, but after trying and failing several times to explain what Dogecoin is, he ultimately agreed with the host that the whole thing is ""a hustle.""
+
+Johnson wants Musk and his companies prohibited from promoting Dogecoin, and for trading Dogecoin to be declared gambling under federal and state laws. He also wants, again, $258 billion: $86 billion in actual damages, representing the loss of Dogecoin value since May 2021, plus a claim for treble damages. It seems like a long shot—filing a lawsuit is a long way from winning one (or even having it heard) and even if Johnson comes out on top, Musk is rich but he's not that rich—but I guess if you're going to take a shot, you might as well aim high.
+
+Musk isn't the only wealthy person to run into trouble for promoting Dogecoin. Former anti-virus guru John McAfee was charged with fraud (opens in new tab) in 2021 for running schemes involving multiple cryptocurrencies including Dogecoin. Shortly before McAfee was scheduled to be extradited to the US to face charges, he was found dead (opens in new tab) in a Spanish prison cell."
+11,"Audio player loading…
+
+Final Fantasy VII Remake Intergrade, the ""visually enhanced"" now-gen version that Square Enix launched on PS5 and PC via the Epic Games Store, is now coming to Steam. Not another year from now, either. Nope, FF7R lands on Steam tomorrow, June 17.
+
+Square Enix announced the new store availability (along with the next part of the remake, Rebirth) during a Final Fantasy VII 25th anniversary celebration livestream.
+
+Square Enix producer Yoshinori Kitase made the announcement, saying ""thank you to all of our Steam players waiting, but it is finally here,"" and ""we hope this provides an opportunity for even more players to enjoy the game.""
+
+Only a portion of Steam users own a Steam Deck but hey, they aren't getting left out either. Square Enix also announced that FF7R will be compatible with the Deck, though it doesn't appear to be in the Deck verified list quite yet at time of writing.
+
+If you were waiting for Cloud to make the leap to Steam, hey, happy Friday to you. And if you somehow hadn't decided yet whether or not the remake was your thing, we gave it an 88% review—despite the port itself being bare bones and its initial issues with stuttering on PC—calling it ""terrific return to form for singleplayer Final Fantasy that makes the series' future exciting."""
+12,"Audio player loading…
+
+Final Fantasy 7 Remake's second part, called Final Fantasy 7 Rebirth, will arrive ""next winter,"" according to Square Enix, with a third part coming sometime after that. The Crisis Core Remake (opens in new tab) is due out ""this winter,"" which means Square Enix is almost certainly referring to the end of 2023 or beginning of 2024 (which is still technically winter) when it comes to Rebirth.
+
+
+
+Rebirth will be exclusive to the PlayStation 5, but I'm crossing my fingers that it'll come to PC faster than it took for Remake's PC release.
+
+
+
+During the Final Fantasy 7 25th Anniversary Celebration stream (opens in new tab), we saw a short trailer of Aerith explaining, in a non-spoilerly way, how much of the original game's story got changed in Final Fantasy 7 Remake. Cloud is very aware that she died way back in 1997, which could mean the game is going to go full meta with its remixed storyline in the sequel.
+
+We're delighted to present messages from Final Fantasy VII Rebirth creative director Tetsuya Nomura, director Naoki Hamaguchi and producer Yoshinori Kitase. #FF7R pic.twitter.com/Cem5VO4HVqJune 16, 2022 See more
+
+According to a letter from creative director Tetsuya Nomura that was posted on Twitter, Rebirth is meant to work even if it's the first game in the trilogy you play. That makes me curious if any of your progression from the first game will carry over to the next two games.
+
+
+
+""Final Fantasy 7 Rebirth is being designed so that people can enjoy this game whether they know the original game or not,"" he added.
+
+
+
+Development on Rebirth is in full swing, and Nomura said some work has already begun on the third game, which Square Enix didn't give us a title for. It'll be a while before it's out, which gives us plenty of time to convince the publisher to call it Final Fantasy 7 Revengeance."
+13,"Audio player loading…
+
+New Blood Interactive CEO Dave Oshry threatened to kill a puppy (opens in new tab) if he got bumped from the PC Gaming Show (opens in new tab) this past weekend, so we made sure he got his time and then he used it to say that the studio isn't actually ready to talk about any of the new stuff that it's working on (except Gloomwood (opens in new tab), which we already know about). He did offer the briefest of glimpses at three games, though, including a top-down shooter, a car combat game, and a ""Fallout-style RPG"" that Oshry described as his ""dream game.""
+
+What a difference three days makes, apparently, because yesterday New Blood revealed a little more about its ""retro futurist isometric CRPG,"" and while there's no detail yet, even at this early stage it sounds very promising.
+
+If Alexander's art looks familiar, you probably know him better as ""Red888guns""You've seen his art before: pic.twitter.com/fJeBymYbmcJune 16, 2022 See more
+
+The studio described the game on Twitter as a ""passion project"" among Oshry, game developer Adam Lacko, and artist Alexander Berezin. The latter two are major figures on the retro Fallout scene: Lacko is the mastermind of Project Van Buren (opens in new tab), an effort to resurrect Black Isle Studios' original Fallout 3, which was cancelled in 2003, while Berezin, known as Red888guns (opens in new tab) on DeviantArt, is an artist who has previously worked on the Fallout Sonora and Olympus 2207 mods.
+
+Mark Morgan (opens in new tab), another name that will be familiar to post-apocalyptic RPG fans (and one of my favorite game composers), is also involved in the project. Morgan's previous work includes the soundtracks for the first two Fallout games, Planescape: Torment, and inXile's Wasteland sequels.
+
+There's no indication as to when this RPG will be formally announced, much less released, and Oshry warned that despite the tease, it's still a long way off.
+
+""Everyone knows this is my dream game,"" he told PC Gamer. ""And now I've got my dream artist and dream composer working on it as well as all the talented devs at New Blood. Should we be showing it this early? Probably not. But it's encouraging to see how many people want this game as much as I've always wanted to create it.""
+
+""Bwahahahaha,"" he added.
+
+New Blood also revealed a bit more about the other games it teased at the PC Gaming Show: The top-down shooter has already been in development ""for a VERY long time"" and will include a level editor, co-op support, and appearances from most New Blood Universe characters, while the car combat game is coming along ""slowly but surely."""
+14,"Audio player loading…
+
+Hello everyone and welcome to yet another installment of ""what can you make into a controller to play hard games with.""
+
+Today we have skilled harpist and vocalist Anna Ellsworth. A few months ago, she posted a YouTube video (opens in new tab) about turning her harp into a controller and playing Dark Souls with it. Since then, she's beaten Elden Ring's Tree Sentinel (opens in new tab) and Margit the Fell Omen (opens in new tab) with her harp. (She also beat Dark Souls' ragequit-inducing duo Ornstein & Smough! (opens in new tab))
+
+In a post on Reddit (opens in new tab), Ellsworth explained how the controls worked.
+
+""A for dodge and G for light attack! To my great sadness, I don't have a heavy attack string because I needed that real estate for other actions,"" she said. ""The only control I have over the direction of the roll is just whatever direction my character is walking. It's a little annoying because when I play with a controller, I tend to do a lot of forward-but-a-little-to-the-right rolls which I can't do with harp unless I happen to be approaching from a certain angle. Mostly, it's really just rolling into an attack and hoping for the best.""
+
+The hardest part, however, was adjusting for input lag. There's a moment of input lag between plucking the string and the controls firing off. Ellsworth said that figuring it out ""took some time but isn't too bad anymore.""
+
+As to how she plays the game better with a harp than some people play with a controller? ""To be fair, I've spent way more of my life with a harp against my shoulder than with a controller in my hands,"" she said. (opens in new tab)
+
+She also did some rad covers of the game's title theme (opens in new tab), final battle (opens in new tab) track, and the song of lament. (opens in new tab) You know, that sad song the harpies sing.
+
+Ellsworth is a harpist and vocalist who has won awards and done national tours in the United States, including as part of The Legend of Zelda: Symphony of the Goddesses tour. You can find her on her personal website (opens in new tab), YouTube (opens in new tab), and Soundcloud. (opens in new tab)"
+15,"Audio player loading…
+
+Activision Blizzard (opens in new tab) says that an investigation conducted by Activision Blizzard has found no evidence of systemic gender-based misconduct at Activision Blizzard, or that Activision Blizzard management ""intentionally ignored or attempted to downplay"" incidents of harassment at Activision Blizzard when they occurred.
+
+The conclusion was shared by the company's board of directors in a June 16 filing (opens in new tab) with the US Securities and Exchange Commission. It begins by stating that ""the allegations in media and legal filings about our company were as distressing to us as they were to all of you,"" and obliquely acknowledges that there have been some instances of workplace misconduct. The filing also says, however, that individual experience does not necessarily reflect the larger picture, and points at ""progressively stronger, more decisive and coordinated steps"" it has taken, including leadership changes, to address shortcomings and better reflect the diversity of its audience.
+
+And yet, the company says that ""contrary to many of the allegations,"" there is ""no evidence to suggest that Activision Blizzard senior executives ever intentionally ignored or attempted to downplay the instances of gender harassment that occurred and were reported.""
+
+The filing also states that media criticism of the company's executives was found to be ""without merit,"" and that ""while there are some substantiated instances of gender harassment,"" there's no evidence that harassment, discrimination, or retaliation were ever ""a systemic issue"" at Activision Blizzard.
+
+Parallel to this investigation, Activision Blizzard said it had former US Equal Employment Opportunity Commission chairman Gilbert Casellas review data on ""investigated reports of gender harassment"" in the US between September 1, 2016 and December 31, 2021. Based on his review, Casellas said that there is no widespread or systemic harassment at Activision Blizzard, and claims that the level of misconduct experienced by employees is ""comparatively low"" for a company of that size.
+
+From there, the filing lists individual changes Activision Blizzard has made in recent years to improve conditions for employees, such as increasing the size of its Ethics and Compliance team, investing in more training, improving transparency on diversity and pay, and implementing new drug and alcohol policies for company events. But then it swerves into a frankly bizarre bit of self-defense, pointing the finger at ""the media"" as the real cause of its problems.
+
+""It must be said that the Company has been subject to an unrelenting barrage of media criticism that attempts to paint the entire Company (and many innocent employees) with the stain of a very small portion of our employee population who engaged in bad behavior and were disciplined for it,"" the filing says.
+
+""Much of this originated with the highly inflammatory, made-for-press allegations of the DFEH. As our outside advisors made clear, the DFEH was not assigned to investigate harassment in its agreement with the EEOC, nor did it in fact complete an investigation into issues of harassment at Activision Blizzard.""
+
+California's Department of Fair Employment and Housing filed a lawsuit (opens in new tab) against Activision Blizzard in July 2021 following a two-year investigation that found a widespread ""frat boy"" culture at the company. The suit stated that ""women were subject to numerous sexual comments and advances, groping and unwanted physical touching, and other forms of harassment,"" and that complaints to the company's human resources department and executive team ""were treated in a perfunctory and dismissive manner and not kept confidential."" The DFEH subsequently attempted to intervene in Activision Blizzard's $18 million settlement with the EEOC, saying it would ""irreparably harm"" its own lawsuit against the company. A judge rejected the DFEH claim and approved the EEOC settlement (opens in new tab) in March; the DFEH lawsuit is scheduled to begin in February 2023
+
+The DFEH lawsuit sparked deeper investigations into Activision Blizzard that led to more specific allegations of misconduct, including that CEO Bobby Kotick had directly intervened (opens in new tab) in at least one case to shield a high-level employee from an accusation of sexual harassment. The SOC Investment Group, an institutional shareholder, called for Kotick's removal (opens in new tab) in November 2021 for failing to address ""many incidents of sexual harassment, sexual assault, and gender discrimination at Activision Blizzard,"" and in May 2022 various agencies in New York City filed a lawsuit (opens in new tab) against the company, claiming that Kotick entered into the acquisition deal with Microsoft in part to ""escape liability"" for overseeing the company during the reported incidents of abuse.
+
+In January, we spoke to three women who formerly worked at Blizzard, one of whom said it was ""impossible"" not to see misconduct (opens in new tab) at the studio. All three also said that the problems were exacerbated by a lack of trust in the company's HR department. Some employees have said that the situation at Activision Blizzard has improved in recent months, but progress continues to run up against the inertia of the past: Jen Oneal became the first woman to lead Blizzard (opens in new tab) after replacing J. Allen Brack in 2021, for instance, but she stepped down just three months after taking the job. Oneal expressed optimism for Blizzard's future, saying that she was ""inspired by the passion of everyone here, working towards meaningful, lasting change with their whole hearts,"" but her departure reportedly inflicted a serious toll on company morale (opens in new tab).
+
+""Allegations in the media and legal filings..."" Anytime allegations is used, despite the overwhelming evidence, it's a flowery way of saying ""we refuse to take ownership of the real damage that occurred on our watch""[Trigger Warning ahead - abuse/harassment/rape] pic.twitter.com/lW7CoA7PBgJune 16, 2022 See more
+
+In a strongly worded response to the filing, the ABK Workers Alliance employee advocacy group said in a lengthy Twitter thread (opens in new tab) that the company's statement ""continues to be as tone deaf and hand-waving as every other 'effort' thus far.""
+
+""While yes, the company has been more diverse and supportive, it's because of the passionate individuals on the ground level that care about fostering change, not the leadership,"" the group tweeted. ""Also, do not forget the company's silence on issues of abortion, bodily autonomy, transgender rights and the list goes on and on. Each time something makes the news, employees call upon leadership to make a statement to affirm their own words. Silence is almost always the answer."""
+16,"Audio player loading…
+
+A new update to the Xbox App on Windows adds a note to game pages telling you how well the game is likely to run on your PC. If you're playing on an older PC, the feature could save you the headache of downloading a game that doesn't pair with low-spec hardware.
+
+Before you install a game from the Xbox App, you will soon see a little note under the install button that tells you how the game performs on PCs that are similar to yours. The messages are simple: ""Plays well on similar PCs,"" for example. This includes games you've purchased along with games on Xbox Game Pass.
+
+Tila Nguyen, senior product manager lead at Xbox, says that ""you may not see a performance check for every game,"" especially games that were recently added, because it takes time for Microsoft to gather the information it uses to make recommendations. No specific information was given as to how much data Xbox needs in order to make these performance recommendations.
+
+The update will also make it easier to find games via the search bar, which now includes games from EA Play (assuming you have a Game Pass membership). Categories such as ""side scrollers"" and ""point and click"" have also been added."
+17,"Audio player loading…
+
+When the next-gen versions of Resident Evil 2 Remake, Resident Evil 3 Remake, and Resident Evil 7 released (opens in new tab) a few days ago there was much rejoicing for those who wanted to play the game on PlayStation 5 and Xbox Series X. For PC players, too, there was some joy: the newly released Steam patches bumped all three games with ray tracing.
+
+There was reason for sadness too, however. The system requirements shifted up, and that meant those games dropped all support for Windows versions earlier than 10. You also needed a slightly beefier graphics card and DirectX 12.
+
+Some players were understandably upset at no longer being able to play a game they'd already bought. Others warned friends not to update the game. Yet more wondered about the legality of making the game unplayable when it had been sold in another form.
+
+Capcom has fixed that little snafu, however. In a statement (opens in new tab) on Steam, the company said that ""Due to overwhelming community response, we've reactivated the previous version that does not include ray tracing and enhanced 3D audio. Both enhanced and previous versions will be made available going forward.""
+
+
+
+It's ultimately a blessing for people who don't want to play the game on the latest hardware and OS. You can find the branch to launch the game in DirectX 11, no ray tracing mode via the Betas tab of the relevant game's Properties menu. Some of your in-game option settings will be reset as a result of the rollback to the previous version."
+18,"Audio player loading…
+
+Prime Day (opens in new tab), the annual avalanche of can't-say-no prices on stuff you don't need but just gotta have, will be here soon, and this year's festivities will feature a very nice boon for gamers: More than 30 games, including some pretty good ones, will be free for the taking (opens in new tab) for Amazon Prime subscribers.
+
+It's actually Prime Days, technically, as the event will kick off at 3 am ET on July 12 and run through July 13. But the game giveaways will begin ahead of all that, on June 21, with 25 indie games from the past and present:
+
+10 Second Ninja X
+
+8Doors: Arum’s Afterlife Adventure
+
+Addling Adventures
+
+Bang Bang Racing
+
+Clouds & Sheep 2
+
+Death Squared
+
+Fatal Fury Special
+
+Giana Sisters: Twisted Dreams
+
+Gone Viral
+
+HUE
+
+Manual Samuel
+
+Metal Slug 2
+
+Metal Unit
+
+Pumped BMX Pro
+
+Puzzle of the Year — 10 Pack
+
+Rain World
+
+Road Trip — 3 Pack
+
+Samurai Shodown II
+
+Serial Cleaner
+
+The Crow’s Eye
+
+The Darkside Detective
+
+The Darkside Detective: A Fumble in the Dark
+
+The King of Fighters 2000
+
+The King of Fighters 2002
+
+The Metronomicon: Slay the Dance Floor
+
+Another half-dozen games join the mix when Prime Day(s) proper gets underway on July 12. The headliner (in my eyes, anyway) is Mass Effect Legendary Edition (opens in new tab), the remastered package of the big BioWare space opera trilogy, but racing fans may better appreciate Grid Legends (opens in new tab) and Need for Speed Heat (opens in new tab). Star Wars fans are also covered, with Star Wars: Jedi Knight – Jedi Academy (opens in new tab), Star Wars: Jedi Knight – Jedi Outcast (opens in new tab), and Star Wars: Republic Commando (opens in new tab). They're not the newest games on the block, but they are classics, and also free, which is a big plus.
+
+Prime Gaming offers regular monthly game and loot giveaways, and is included with Amazon Prime, which goes for $15 per month and also includes access to Prime Video, free shipping on eligible products, a monthly free Twitch channel subscription, and more. New subscribers can take advantage of a free 30-day trial period, and—this is important—any free games you claim are yours to keep, even if you cancel the subscription.
+
+As always, we'll be tracking the best Prime Day deals in hardware, software, and accessories from Amazon and all the other retailers who jump the bandwagon, to help ensure everyone has a shot at the best deals possible."
+19,"Audio player loading…
+
+Riot Games has revealed Valorant's eighth map, Pearl, and it's an underwater adventure. With the release of Episode 5 Act 1, Pearl acts as the most ""straight-forward"" map released since Valorant's initial launch, stripping away many of the gimmicks seen in previous locations. Not only that, but Pearl is a showcase of how Valorant's alternative earth is dealing with climate change. Hardcore.
+
+Pearl is set in Portugal in an underwater town. The major inspiration for the level, according to art lead Brian Yam, was a pitch about a city flooded by climate change. ""Since Pearl takes place on 'Omega Earth,' we wanted to explore how Omega Kingdom would approach climate change and how we would convey this idea visually.
+
+""The idea of showing the sustainment of cities underwater seemed to be the right visual direction that everyone was excited about. It’s a nice visual juxtaposition of Kingdom Industries structures with older structures of Portugal."" The Portuguese influence is present in more than just concept. The map features artwork from real Portuguese muralists and traditional music too.
+
+Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7 (Image credit: Riot Games ) Image 1 of 7
+
+Normally a new Valorant map also comes with a new gameplay feature to make it unique. That might be controllable doors to bomb sites, ropes to climb, or even one-way teleporters to zoom from one site to another. But all gimmicks are stripped away with Pearl. This is truly the no-frills map of Valorant. Three lanes between two 5v5 teams: it's as simple as it gets. That's a far cry from maps like Fracture which is known for its dual sided attackers spawn, or Breeze which had one huge middle lane. Pearl strips it all back but does it with great style.
+
+With the addition of Pearl, we are sadly losing one of the original maps. Riot Games alongside esports organisations decided that seven maps is best for an active rotation, with five played and two banned in a tournament. So Riot is going to be removing Split (opens in new tab) from active Unrated and Competitive play with it only appearing in shorter games like Spike Rush. Riot does have its reasons for benching Split, but it also shared no planned return date for the launch map. Oh well, hopefully Pearl is better balanced. It won't be long until we find out as Pearl will go live in Unrated on June 22 with Episode 5 and then be added Competitive play June 12."
